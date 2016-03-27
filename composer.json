@@ -1,6 +1,6 @@
 {
-    "name": "bolt/bolt-extension-starter",
-    "description": "A description about your extension should go here.",
+    "name": "ohlandt/store-test",
+    "description": "Dummy extension to test things on extensions.bolt.cm",
     "type": "bolt-extension",
     "keywords" : [ "foo", "bar" ],
     "require": {
@@ -9,8 +9,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Your Name", 
-            "email": "you@example.com"
+            "name": "Phillipp Ohlandt",
+            "email": "phillipp.ohlandt@googlemail.com"
         }
     ],
 	"minimum-stability" : "dev",
@@ -24,7 +24,7 @@
             "Bolt\\Extension\\YourName\\ExtensionName\\Tests\\": "tests"
         }
     },
-    
+
     "extra": {
         "bolt-assets": "assets"
     }
