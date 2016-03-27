@@ -28,7 +28,8 @@
     "suggest": {
         "ohlandt/user-profiles": "wololo",
         "bobdenotter/seo": "whatever lol",
-        "ohlandt/store-test": "this package is required to use this package"
+        "ohlandt/store-test": "this package is required to use this package",
+        "juststeveking/boltmedium": "Because steve :3"
     },
 
     "extra": {
