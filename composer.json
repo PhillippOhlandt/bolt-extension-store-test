@@ -25,6 +25,10 @@
         }
     },
 
+    "suggest": {
+        "ohlandt/user-profiles": "wololo"
+    },
+
     "extra": {
         "bolt-assets": "assets"
     }
