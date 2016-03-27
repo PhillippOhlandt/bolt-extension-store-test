@@ -27,7 +27,8 @@
 
     "suggest": {
         "ohlandt/user-profiles": "wololo",
-        "bobdenotter/seo": "whatever lol"
+        "bobdenotter/seo": "whatever lol",
+        "ohlandt/store-test": "this package is required to use this package"
     },
 
     "extra": {
